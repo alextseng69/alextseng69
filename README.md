@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning as much as I can in the Data Science Arena 
 - 🌱 I’m currently learning ... TensorFlow and Python
 - 💞️ I’m looking to collaborate on ... data science visualization and predictions and achieve good results!
-- 📫 How to reach me ... here at github or on https://www.facebook.com/alex.tseng/
-- also https://sites.google.com/view/alextsenglengchuan/about-me
+- 📫 How to reach me ... 
+- here at github or on https://sites.google.com/view/alextsenglengchuan/about-me
 - https://www.linkedin.com/in/alextseng69/
 - https://www.facebook.com/alextsenglengchuan/
 - https://www.kaggle.com/alextseng69/
