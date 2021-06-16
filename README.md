@@ -25,6 +25,7 @@ I always strive to be the most engaged and out-of-the-box yet result-orientated 
 
 Education
 IBM IMVAI (0604 cohort)
+completed: June 2021
 
 CELTA
 Obtained: December 2018
