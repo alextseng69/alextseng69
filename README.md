@@ -45,8 +45,8 @@ Others and Summary
 
 Full Time Tutoring 					11 years
 Music and Art						31 years
-Counseling and Small Group Leadership		29 years
-Swimming						lifelong
+Counseling and Small Group Leadership		 29 years
+Swimming						 lifelong
 
 Previous employment in Electronics R&D and Semiconductor Distribution
 
@@ -85,4 +85,3 @@ Product Development Pilot Run and Testing of Pagullar system
 
 NSF and NS
 Combat Medic (CSM appointment in LMC before ROD)
-
